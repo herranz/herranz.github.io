@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-![Me](https://raw.githubusercontent.com/herranz/herranz.github.io/master/img/Polish_20191223_081025047.jpg){: .center-block :}
+![Me](https://raw.githubusercontent.com/herranz/herranz.github.io/master/img/Polish_20191223_081025047.jpg =365x365){: .center-block :}
 Mi nombre es Borja Herranz.
 
 - I rock a great mustache
