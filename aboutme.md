@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre Mi
 ---
 
-![Me](https://raw.githubusercontent.com/herranz/herranz.github.io/master/img/Polish_20191223_081025047.jpg =365x365){: .center-block :}
-Mi nombre es Borja Herranz.
+![Me](https://raw.githubusercontent.com/herranz/herranz.github.io/master/img/rsz_polish_20191223_081025047.png){: .center-block :}
+Mi nombre es Borja Herranz y soy un friki, un nerd o como quieras llamarlo. Este blog mio sirve para documentar un poco mis andanzas y cumplir la norma "pics or it didn't happen".
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Mis intereses son variopintos; electronica, arte, cocina, ciberseguridad, musica asi hasta un sinfin, resumiendo me gusta todo aquello que despierte mi curiosidad.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
