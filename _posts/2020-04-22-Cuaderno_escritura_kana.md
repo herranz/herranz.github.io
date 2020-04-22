@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cuaderno escritura para Kana
+title: Cuaderno para practicar escritura silabarios Kana
 gh-repo: herranz/cuaderno_kana
 tags: [japon]
 comments: false
