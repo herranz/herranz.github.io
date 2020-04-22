@@ -3,12 +3,12 @@ layout: post
 title: Cuaderno escritura para Kana
 subtitle: Each post also has a subtitle
 gh-repo: herranz/cuaderno_kana
-tags: [test]
+tags: [japon]
 comments: false
 ---
 
-Desde mi viaje a Japón hara un año, quede fascinado por la cultura y sobretodo por la cantidad de material multimedia/audiovisual que
-no nos llega nunca a "occidente". Desde entonces, de una forma un poco irregular, he ido avanzando poco a poco con los silabarios Hiragana y Katakana,
+Desde mi viaje a Japón hara un año, quede fascinado por la cultura y sobretodo por la cantidad de material multimedia/audiovisual que no nos llega nunca a "occidente". 
+Desde entonces, de una forma un poco irregular, he ido avanzando poco a poco con los silabarios Hiragana y Katakana,
 y necesitaba un cuaderno para practicar, asi que en vez de comprar uno, me lo he hecho yo mismo.
 
 [![Cuaderno_kana](https://raw.githubusercontent.com/herranz/cuaderno_kana/master/Portada_cuaderno_kana.png)](https://github.com/herranz/cuaderno_kana){: .center-block :}
