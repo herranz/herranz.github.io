@@ -7,7 +7,7 @@ comments: false
 ---
 
 Desde mi viaje a Japón hara un año, quede fascinado por la cultura y sobretodo por la cantidad de material multimedia/audiovisual que no nos llega nunca a "occidente".  
-
+  
 A partir de entonces, de una forma un poco irregular, he ido avanzando poco a poco con los silabarios Hiragana y Katakana,
 y necesitaba un cuaderno para practicar, asi que en vez de comprar uno, me lo he hecho yo mismo.
 
