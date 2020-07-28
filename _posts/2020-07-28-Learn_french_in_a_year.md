@@ -34,5 +34,6 @@ As engineering as taught me, starting from nothing is the least efficient way to
 - French music/podcast: I will not understand anything but is free and you can check if you begin to understand words while improving the vocabulary. Spotify for the win.
 Also, [The French Experiment](https://www.thefrenchexperiment.com/), [TheFrenchpod101](https://www.frenchpod101.com/) or the [InnerFrench podcast](https://innerfrench.com/podcast/) could be a good exercise specially the first to start listening to children' books.
 
+One important point is that I want also time to myself to being able to tinker in my maker/engineer ideas and have some balance.
 
 I will be updating my progress with subsequent post on this blog. 
