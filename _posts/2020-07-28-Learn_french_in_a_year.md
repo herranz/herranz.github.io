@@ -35,4 +35,4 @@ As engineering as taught me, starting from nothing is the least efficient way to
 Also, [The French Experiment](https://www.thefrenchexperiment.com/), [TheFrenchpod101](https://www.frenchpod101.com/) or the [InnerFrench podcast](https://innerfrench.com/podcast/) could be a good exercise specially the first to start listening to children' books.
 
 
-I will be updating my progress with more post on this blog. 
+I will be updating my progress with subsequent post on this blog. 
