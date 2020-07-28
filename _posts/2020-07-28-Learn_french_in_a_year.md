@@ -29,9 +29,9 @@ The only way to find out is trying.
 
 As engineering as taught me, starting from nothing is the least efficient way to do something. Nobody lives in a vacuum so Wesley's plan described in the article linked above is a good starting point and I can always modify the plan as I go along to adapt it to my quirks and besides " no battle plan survives contact with the enemy".
 
-..* Duolingo APP: At least half-hour every day. Good first approach to get my feet wet with the language. I will stick exclusively to this at least for the first month. Desktop version.
+- Duolingo APP: At least half-hour every day. Good first approach to get my feet wet with the language. I will stick exclusively to this at least for the first month. Desktop version.
 
-..* French music/podcast: I will not understand anything but is free and you can check if you begin to understand words while improving the vocabulary. Spotify for the win.
+- French music/podcast: I will not understand anything but is free and you can check if you begin to understand words while improving the vocabulary. Spotify for the win.
 Also, [The French Experiment](https://www.thefrenchexperiment.com/), [TheFrenchpod101](https://www.frenchpod101.com/) or the [InnerFrench podcast](https://innerfrench.com/podcast/) could be a good exercise specially the first to start listening to children' books.
 
 
