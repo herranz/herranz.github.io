@@ -93,5 +93,5 @@ yelp:
 
 thingiverse:
   name: "Thingiverse"
-  baseURL: "https://www.thingiverse.com/borjah"
+  baseURL: "https://www.thingiverse.com/"
   icon: "fa-thingiverse"
