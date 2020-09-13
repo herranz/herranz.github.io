@@ -94,4 +94,4 @@ yelp:
 thingiverse:
   name: "Thingiverse"
   baseURL: "https://www.thingiverse.com/"
-  icon: "fa-cogs"
+  icon: "fa-rebel"
