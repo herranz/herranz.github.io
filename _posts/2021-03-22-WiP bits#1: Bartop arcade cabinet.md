@@ -11,5 +11,5 @@ Recently I saw the usefulness of knowing a true CAD 3D design. And given that So
 
 This is a WIP of a Bartop arcade cabinet I did un a day or so, but is not finished yet. I don't think I will build it ever, but is a good practice to do assemblies
 
-(https://user-images.githubusercontent.com/3214883/111994771-6e3e8880-8b18-11eb-9d78-b17b7f74c52a.jpg){: .center-block :}
+![](https://user-images.githubusercontent.com/3214883/111994771-6e3e8880-8b18-11eb-9d78-b17b7f74c52a.jpg){: .center-block :}
 
