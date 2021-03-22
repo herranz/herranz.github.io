@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: WIP bits #1 : Bartop arcade cabinet
