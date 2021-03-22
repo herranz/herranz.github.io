@@ -1,7 +1,7 @@
 ---
 layout: post
-title: WIP bits 1 : Bartop arcade cabinet
-subtitle: ... or how to practice Solidworks
+title: WIP bits 1
+subtitle: Bartop arcade cabinet
 tags: [3D, Solidworks, WIP]
 comments: false
 ---
