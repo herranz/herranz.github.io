@@ -1,6 +1,23 @@
+---
+layout: post
+title: Metal DremelCNC
+subtitle: phase1
+tags: [3D, Solidworks, CNC, ]
+comments: false
+---
+
 Recently I've been working in my CNC. It's a DremelCNC (https://indystry.cc/dremel-cnc/) , it uses 3D printed parts to produce quite a good machine from what I saw in videos.
 But my experience wasn't that great. The orientation of the 3d print parts are quite critical as are the tolerances of the holes also. For example, I broke like 3 Z-Axis trying to
 install the linear bearing. And don't get me wrong, I'm sure I was at fault for those errors. Besides, the feat of engineering of producing a CNC router with almost
 all structure being 3D print, I apreciate that.
 
-BUT, I wanted something easier to build, that dind't have so many variables to reproduce and had the same handy form factor.
+BUT, I wanted something easier to build, that dind't have so many variables to reproduce and had the same handy form factor. So enter my version of it:
+
+
+It uses the same frame, same lead-screw and linear rails that DremelCNC but the structure is 5mm thick steel plate. Or at least that's the theory.
+
+It's definelty a Work In Progress but is mature enough to show to the world. My idea is to release the files as an open-source project, the same as the original, and maybe sell plate kits in Tindie.
+
+Right now I'm searching for a laser cutter provider  that does not cost an arm and a leg. From what I seen, my local companies, for cutting this in a CO2 laser cutter is arround 150€(!!!!) 
+
+Is not a problem of material, store near my house sells 500mmx500mm 5m thick acrylic for 24€ so... is basically a rip-off 
