@@ -14,10 +14,12 @@ all structure being 3D print, I apreciate that.
 BUT, I wanted something easier to build, that dind't have so many variables to reproduce and had the same handy form factor. So enter my version of it:
 
 
-It uses the same frame, same lead-screw and linear rails that DremelCNC but the structure is 5mm thick steel plate. Or at least that's the theory.
 
-It's definelty a Work In Progress but is mature enough to show to the world. My idea is to release the files as an open-source project, the same as the original, and maybe sell plate kits in Tindie.
 
-Right now I'm searching for a laser cutter provider  that does not cost an arm and a leg. From what I seen, my local companies, for cutting this in a CO2 laser cutter is arround 150€(!!!!) 
+It uses the same frame of 2020 extrusion, same lead-screw and linear rails that DremelCNC but the structure is 5mm thick steel plate. Or at least that's the theory.
 
-Is not a problem of material, store near my house sells 500mmx500mm 5m thick acrylic for 24€ so... is basically a rip-off 
+It's definelty a Work In Progress but I think is mature enough to show to the world. My idea is to release the files as an open-source project and maybe sell plate kits in Tindie. The licensing for the project; I have to look into it. Is a remix on the dremelCNC, but I don't use any of the 3d printed parts of the original, all designed by me, so I don't know how that works
+
+Next steps:
+
+- Right now I'm searching for a laser cutter provider that won't cost an arm and a leg. From what I seen, my local companies, for cutting this in a CO2 laser cutter is arround 150€(!!!!) Is not a problem of material, store near my house sells 500mmx500mm 5m thick acrylic for 24€ so... is I think is basically a rip-off.
