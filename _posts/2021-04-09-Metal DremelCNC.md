@@ -6,7 +6,7 @@ tags: [3D, Solidworks, CNC, ]
 comments: false
 ---
 
-Recently I've been working in my CNC. It's a copy of [DremelCNC](https://indystry.cc/dremel-cnc/), a project that uses 3D printed parts to produce quite a good machine from what I saw in videos.
+Recently I've been working on my CNC. It's a copy of [DremelCNC](https://indystry.cc/dremel-cnc/), a project that uses 3D printed parts to produce quite a good machine from what I saw in videos.
 
 Although, my experience wasn't that great. The orientation of the 3d print parts are quite critical as are the tolerances of the holes also. For example, I broke like 3 Z-Axis trying to install the linear bearing. Don't get me wrong, I'm sure I was at fault for those errors. Besides, the feat of engineering of producing a CNC router with almost all structure being 3D print, is an astonishing feat of engineering that demonstrate what a 3D printer can do.
 
