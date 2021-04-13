@@ -1,3 +1,4 @@
+![MetalDremelCNC_iso](https://user-images.githubusercontent.com/3214883/114604406-20411e80-9c99-11eb-9ec0-576c39689051.JPG)
 ---
 layout: post
 title: Metal DremelCNC
@@ -13,8 +14,7 @@ all structure being 3D print, I apreciate that.
 
 BUT, I wanted something easier to build, that dind't have so many variables to reproduce and had the same handy form factor. So enter my version of it:
 
-
-
+![MetalDremelCNC_iso](https://user-images.githubusercontent.com/3214883/114604406-20411e80-9c99-11eb-9ec0-576c39689051.JPG){: .center-block :}
 
 It uses the same frame of 2020 extrusion, same lead-screw and linear rails that DremelCNC but the structure is 5mm thick steel plate. Or at least that's the theory.
 
