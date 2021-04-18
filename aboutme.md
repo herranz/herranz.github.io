@@ -14,4 +14,5 @@ Si está buscando una descripción más detallada, soy una persona cuyo cerebro 
 :uk:
 
 My name is Borja Herranz, and I'm a geek, nerd or whatever you want to call it and this blog is to document my adventures and applied by the rule of "pics or didn't happen."
+
 If you are looking for a more detailed description, I'm a person whose brain loves anything interesting and weird, anything that expands my horizons. From electronics, art, cooking (the spicer the better) , a bit of cyber security, some music. I had to hear "Jack-of-all-trades, master of none" many times in my life, but this curiosity defines me, allows me to see the world in a different way, and doing things outside the box.
