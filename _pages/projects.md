@@ -13,7 +13,7 @@ I love working on projects. I’m always working on something new in my free tim
         height="200" 
         style="display: block; margin: 0 auto" />
 
-#### [Oscilloscope probe positioning arm]([https://www.google.com](https://github.com/herranz/soporte_oscilloscopio/))
+[Oscilloscope probe positioning arm]([https://www.google.com](https://github.com/herranz/soporte_oscilloscopio/))
 
 
 
