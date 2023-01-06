@@ -6,8 +6,15 @@ permalink: /projects/
 
 I love working on projects. I’m always working on something new in my free time. I have too many ideas for the hours in the day! 
 
-![Imagen Soporte Oscilloscopio](../images/soporte_sonda_osciloscopio.png)
-[Oscilloscope probe positioning arm]([https://www.google.com](https://github.com/herranz/soporte_oscilloscopio/))
+<div style="text-align: center;">
+
+  ![Imagen Soporte Oscilloscopio](../images/soporte_sonda_osciloscopio.png)
+
+  [Oscilloscope probe positioning arm]([https://www.google.com](https://github.com/herranz/soporte_oscilloscopio/))
+
+</div>
+
+
 
 
 
