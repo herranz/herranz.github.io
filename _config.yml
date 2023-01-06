@@ -26,7 +26,7 @@ footer-links:
   flickr:
   github: herranz
   instagram:
-  linkedin: 
+  linkedin: borja-herranz-b986154a/
   pinterest:
   rss: rss
   twitter: h_erranz
@@ -34,8 +34,9 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
-
+  mastodon: h_erranz@hachyderm.io
+  printables: 
+  
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
