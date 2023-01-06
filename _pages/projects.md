@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <p align="center">
-  <img width="500" height="200" href="https://github.com/herranz/soporte_oscilloscopio/" src="/images/soporte_sonda_osciloscopio.png">
+ <a href="[https://www.tutorialspoint.com](https://github.com/herranz/soporte_oscilloscopio/)"><img src=/images/soporte_sonda_osciloscopio.png" alt="proyecto1" style="width:500px;height:200px;"></a>
 </p>
 
 
