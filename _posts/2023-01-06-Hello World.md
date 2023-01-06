@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello WorldS
+title: Hello World
 categories: Miscellaneous
 ---
 
