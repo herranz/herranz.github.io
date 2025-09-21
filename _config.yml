@@ -2,7 +2,9 @@ title: Herranz-Pérez
 author: Borja Herranz-Pérez
 url: https://herranz.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+    I'm Borja Herranz, and this is where I document my learning journey. Think of this space as my digital lab notebook—where I tinker with robotics, electronics, photography, cooking, and 3D printing projects. I'm someone who gets excited by connections between different fields and loves learning through hands-on experimentation. Whether you're here to follow along with my builds, see what I'm currently figuring out, or just curious about maker projects, thanks for stopping by.
+
+
 
 permalink: /:slug
 
